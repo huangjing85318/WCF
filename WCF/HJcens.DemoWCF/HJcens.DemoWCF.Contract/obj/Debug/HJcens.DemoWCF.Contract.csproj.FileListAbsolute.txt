@@ -1,0 +1,7 @@
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Debug\HJcens.DemoWCF.Contract.Properties.Resources.resources
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Debug\HJcens.DemoWCF.Contract.csproj.GenerateResource.Cache
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\bin\Debug\HJcens.DemoWCF.Contract.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\bin\Debug\HJcens.DemoWCF.Contract.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Debug\HJcens.DemoWCF.Contract.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Debug\HJcens.DemoWCF.Contract.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Debug\HJcens.DemoWCF.Contract.csprojResolveAssemblyReference.cache

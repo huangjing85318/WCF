@@ -1,0 +1,5 @@
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\bin\Debug\HJcens.DemoWCF.ServiceLibrary.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\bin\Debug\HJcens.DemoWCF.ServiceLibrary.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\obj\Debug\HJcens.DemoWCF.ServiceLibrary.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\obj\Debug\HJcens.DemoWCF.ServiceLibrary.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\obj\Debug\HJcens.DemoWCF.ServiceLibrary.csprojResolveAssemblyReference.cache

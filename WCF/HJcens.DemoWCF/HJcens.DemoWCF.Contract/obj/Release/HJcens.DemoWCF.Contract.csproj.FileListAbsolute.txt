@@ -1,0 +1,6 @@
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\bin\Release\HJcens.DemoWCF.Contract.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\bin\Release\HJcens.DemoWCF.Contract.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Release\HJcens.DemoWCF.Contract.Properties.Resources.resources
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Release\HJcens.DemoWCF.Contract.csproj.GenerateResource.Cache
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Release\HJcens.DemoWCF.Contract.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Contract\obj\Release\HJcens.DemoWCF.Contract.pdb

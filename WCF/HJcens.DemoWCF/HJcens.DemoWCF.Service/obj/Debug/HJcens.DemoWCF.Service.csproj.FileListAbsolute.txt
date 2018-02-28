@@ -1,0 +1,14 @@
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\obj\Debug\HJcens.DemoWCF.Service.FormService.resources
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\obj\Debug\HJcens.DemoWCF.Service.Properties.Resources.resources
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\obj\Debug\HJcens.DemoWCF.Service.csproj.GenerateResource.Cache
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\obj\Debug\HJcens.DemoWCF.Service.csprojResolveAssemblyReference.cache
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\obj\Debug\HJcens.DemoWCF.Service.MainFrm.resources
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\bin\Debug\HJcens.DemoWCF.Service.exe.config
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\bin\Debug\HJcens.DemoWCF.Service.exe
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\bin\Debug\HJcens.DemoWCF.Service.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\bin\Debug\HJcens.DemoWCF.Contract.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\bin\Debug\HJcens.DemoWCF.ServiceLibrary.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\bin\Debug\HJcens.DemoWCF.Contract.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\bin\Debug\HJcens.DemoWCF.ServiceLibrary.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\obj\Debug\HJcens.DemoWCF.Service.exe
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.Service\obj\Debug\HJcens.DemoWCF.Service.pdb

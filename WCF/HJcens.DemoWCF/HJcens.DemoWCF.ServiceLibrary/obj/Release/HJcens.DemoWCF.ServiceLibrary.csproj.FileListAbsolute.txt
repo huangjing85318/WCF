@@ -1,0 +1,4 @@
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\bin\Release\HJcens.DemoWCF.ServiceLibrary.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\bin\Release\HJcens.DemoWCF.ServiceLibrary.pdb
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\obj\Release\HJcens.DemoWCF.ServiceLibrary.dll
+F:\workspace\HJcens.DemoWCF\HJcens.DemoWCF.ServiceLibrary\obj\Release\HJcens.DemoWCF.ServiceLibrary.pdb
